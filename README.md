@@ -99,7 +99,7 @@ The evaluation script works with any OpenAI-compatible API endpoint.
 
 ```bibtex
 @article{fabric2026,
-  title={FABRIC: AI Financial Advisors Hallucinate More Than They Forget on Indian Markets},
+  title={FABRIC: Financial AI Benchmark for Reliability in Indian Context},
   author={Panuganti, Rajkiran},
   year={2026}
 }
